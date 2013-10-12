@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dokument bez názvu</title>
+<link href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.core.min.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.theme.min.css" rel="stylesheet" type="text/css">
+<script src="http://code.jquery.com/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<script src="jQueryAssets/jquery-1.8.3.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div data-role="page" id="page">
+  <div data-role="header">
+    <h1>recepty</h1>
+  </div>
+  <div data-role="content">
+    <ul data-role="listview">
+      <li><a href="maso.html">maso</a></li>
+      <li><a href="#">ryby</a></li>
+      <li><a href="#">zelenina</a></li>
+      <li><a href="#">těstoviny</a></li>
+      <li><a href="#">
+      polévky</a></li>
+    </ul>
+</div>
+</div><li></li>
+</body>
+</html>
